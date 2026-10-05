@@ -14,12 +14,12 @@ window.LEGROOM_DOWNLOADS = {
   channel: "beta",
   released: "2026-10-05",
   exe: {
-    url: "https://github.com/gteckannur82/win_cleaner/releases/latest/download/Legroom_x64-setup.exe",
+    url: "https://github.com/gteckannur82/legroom/releases/latest/download/Legroom_x64-setup.exe",
     file: "Legroom_x64-setup.exe",
     size: "2.4 MB",
   },
   msi: {
-    url: "https://github.com/gteckannur82/win_cleaner/releases/latest/download/Legroom_x64_en-US.msi",
+    url: "https://github.com/gteckannur82/legroom/releases/latest/download/Legroom_x64_en-US.msi",
     file: "Legroom_x64_en-US.msi",
     size: "3.6 MB",
   },
